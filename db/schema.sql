@@ -1,9 +1,10 @@
 ### Schema
 
-CREATE DATABASE cat_db;
-USE cat_db;
+drop database if exists theBurger_db;
+CREATE DATABASE theBurger_db;
+USE theBurger_db;
 
-CREATE TABLE cats
+CREATE TABLE burgers
 (
 	id int NOT NULL AUTO_INCREMENT,
 	name varchar(255) NOT NULL,
