@@ -1,4 +1,6 @@
-INSERT INTO burgers (name) VALUES ('Bacnonator');
-INSERT INTO burgers (name) VALUES ('Big Mac');
-INSERT INTO burgers (name, eaten) VALUES ('Whopper', true);
-INSERT INTO burgers (name, eaten) VALUES ('Bacon King', true);
+INSERT INTO burgers (name) VALUES ('Molly');
+INSERT INTO burgers (name) VALUES ('Charlie');
+INSERT INTO burgers (name, eaten) VALUES ('Poppy', true);
+INSERT INTO burgers (name, eaten) VALUES ('Oscar', true);
+INSERT INTO burgers (name, eaten) VALUES ('Smudge', true);
+INSERT INTO burgers (name) VALUES ('Daisy');

@@ -1,16 +1,7 @@
-body {
-  background-color: #fdbc00;
-}
-
-h1{
-  font-size: 3rem;
-}
-
 li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
-  width: 37.5%;
 }
 
 .label {
