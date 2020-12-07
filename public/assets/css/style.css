@@ -1,6 +1,12 @@
+body {
+  background-color: #fdbc00;
+}
+
+
 li {
   padding: 5px;
   margin: 5px;
+  width: 37.5%;
   background: #faebd7;
 }
 
