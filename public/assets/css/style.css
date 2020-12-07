@@ -1,9 +1,14 @@
+*{
+  font-family: 'Patrick Hand', cursive;
+}
+
 body {
   background-color: #fdbc00;
 }
 
 
 li {
+  font-size: 1.5rem;
   padding: 5px;
   margin: 5px;
   background: #58b053;
@@ -21,6 +26,7 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+  font-size: 1rem;
 }
 
 img{
