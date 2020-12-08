@@ -52,6 +52,7 @@ WHEN you have made your contributions, run git push and I will review for a merg
 ## Questions
 If you have any questions contact me through email, xdanielmtz@gmail.com
 Also here is my github profile, https://github.com/xdanielmtz
+Additionally, you can view my portfolio page for additional information: https://xdanielmtz.github.io/responsive-portfolio/index.html
 
 
 
